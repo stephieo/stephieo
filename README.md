@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephanie Olulesho</h1>
-<h3 align="center">A Software Engineering Student at ALX Africa</h3>
+<h3 align="center">A Backend Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740&t=st=1707243561~exp=1707244161~hmac=0b0ef30d5cc9530328ded3cb6d0afc71ea73984864b99171615c3839a442770f" >
 
 - 🌍 I’m based in **Abuja, Nigeria**
